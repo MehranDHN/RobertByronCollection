@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://example.org/iiif/manifest/859a4555-db43-45d0-946e-5dd5bf70c6e9",
+  "label": "Robert Byron Album - Combined Manifest",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Combined Canvases from Multiple manifests"
+    },
+    {
+      "label": "Source",
+      "value": "Courtauld Institute of Art"
+    },
+    {
+      "label": "Description",
+      "value": "Robert Byron's Photograph album"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "http://example.org/iiif/sequence/11b8924d-9a8d-4e81-9fcd-a30a6e023919",
+      "@type": "sc:Sequence",
+      "label": "Default",
+      "canvases": [
+        {
+          "@id": "http://example.org/iiif/canvas/fallback",
+          "@type": "sc:Canvas",
+          "label": "Fallback Canvas",
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/bd659704-d47a-4281-9e69-7523bfbca81d",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://via.placeholder.com/1000x1000.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "on": "http://example.org/iiif/canvas/fallback"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
