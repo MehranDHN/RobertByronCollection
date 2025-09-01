@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "http://example.org/iiif/manifest/859a4555-db43-45d0-946e-5dd5bf70c6e9",
+  "@id": "http://example.org/iiif/manifest/30bddfc8-0994-4c12-9520-f4342c8867a9",
   "label": "Robert Byron Album - Combined Manifest",
   "metadata": [
     {
@@ -19,29 +19,198 @@
   ],
   "sequences": [
     {
-      "@id": "http://example.org/iiif/sequence/11b8924d-9a8d-4e81-9fcd-a30a6e023919",
+      "@id": "http://example.org/iiif/sequence/1c6cde87-a77b-45ef-af7d-d7d5c5ccfd68",
       "@type": "sc:Sequence",
       "label": "Default",
       "canvases": [
         {
-          "@id": "http://example.org/iiif/canvas/fallback",
+          "@id": "https://maior-images.memorix.nl/cia/iiif/e596742a-2b0e-a640-7d53-48fd509a3fad/canvas",
           "@type": "sc:Canvas",
-          "label": "Fallback Canvas",
-          "height": 1000,
-          "width": 1000,
+          "label": "CON_BSP02471-02480-pres",
+          "height": 4912,
+          "width": 7360,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/bd659704-d47a-4281-9e69-7523bfbca81d",
+              "@id": "http://example.org/iiif/annotation/262a27ec-1066-4214-aac5-6e91b5bcd34b",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://via.placeholder.com/1000x1000.jpg",
+                "@id": "https://maior-images.memorix.nl/cia/iiif/e596742a-2b0e-a640-7d53-48fd509a3fad/full/max/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 1000,
-                "width": 1000
+                "height": 4912,
+                "width": 7360,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://maior-images.memorix.nl/cia/iiif/e596742a-2b0e-a640-7d53-48fd509a3fad",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
               },
-              "on": "http://example.org/iiif/canvas/fallback"
+              "on": "https://maior-images.memorix.nl/cia/iiif/e596742a-2b0e-a640-7d53-48fd509a3fad/canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://maior-images.memorix.nl/cia/iiif/1997e388-803e-cc3a-c4bb-44915c736051/canvas",
+          "@type": "sc:Canvas",
+          "label": "CON_B02477_F001_000-pres",
+          "height": 7868,
+          "width": 6185,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/5bbdcbc1-87f5-4613-9934-6bf48eb876b8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://maior-images.memorix.nl/cia/iiif/1997e388-803e-cc3a-c4bb-44915c736051/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7868,
+                "width": 6185,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://maior-images.memorix.nl/cia/iiif/1997e388-803e-cc3a-c4bb-44915c736051",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://maior-images.memorix.nl/cia/iiif/1997e388-803e-cc3a-c4bb-44915c736051/canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://maior-images.memorix.nl/cia/iiif/5dfb378f-19ed-3c6c-1810-201b69a716b2/canvas",
+          "@type": "sc:Canvas",
+          "label": "CON_B02477_F001_001-pres",
+          "height": 7137,
+          "width": 5267,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/b7f361c6-b2c4-46d8-ace8-19570db534f3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://maior-images.memorix.nl/cia/iiif/5dfb378f-19ed-3c6c-1810-201b69a716b2/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7137,
+                "width": 5267,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://maior-images.memorix.nl/cia/iiif/5dfb378f-19ed-3c6c-1810-201b69a716b2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://maior-images.memorix.nl/cia/iiif/5dfb378f-19ed-3c6c-1810-201b69a716b2/canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://maior-images.memorix.nl/cia/iiif/168fea19-e921-a6d5-3d35-8fd0569cb2b1/canvas",
+          "@type": "sc:Canvas",
+          "label": "CON_B02477_F001_002-pres",
+          "height": 7086,
+          "width": 5573,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/06b29798-2636-4a7f-9382-b6ac3831f7cb",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://maior-images.memorix.nl/cia/iiif/168fea19-e921-a6d5-3d35-8fd0569cb2b1/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7086,
+                "width": 5573,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://maior-images.memorix.nl/cia/iiif/168fea19-e921-a6d5-3d35-8fd0569cb2b1",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://maior-images.memorix.nl/cia/iiif/168fea19-e921-a6d5-3d35-8fd0569cb2b1/canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://maior-images.memorix.nl/cia/iiif/4f1d01bb-4ee0-be55-9e36-3e2f2331835c/canvas",
+          "@type": "sc:Canvas",
+          "label": "CON_B02477_F001_003-pres",
+          "height": 5286,
+          "width": 7126,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/019a4f98-7665-4f7f-a494-0d823a49ce53",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://maior-images.memorix.nl/cia/iiif/4f1d01bb-4ee0-be55-9e36-3e2f2331835c/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5286,
+                "width": 7126,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://maior-images.memorix.nl/cia/iiif/4f1d01bb-4ee0-be55-9e36-3e2f2331835c",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://maior-images.memorix.nl/cia/iiif/4f1d01bb-4ee0-be55-9e36-3e2f2331835c/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "http://example.org/iiif/range/38b099e3-c82f-4be9-8a5c-d776ed687839",
+      "@type": "sc:Range",
+      "label": "Robert Byron Album",
+      "ranges": [
+        {
+          "@id": "http://example.org/iiif/range/f8e34b50-e890-4945-890a-28802b0a4512",
+          "@type": "sc:Range",
+          "label": "Architectural Building",
+          "ranges": [
+            {
+              "@id": "http://example.org/iiif/range/910c11cb-fb27-4d43-9045-4c30e86f2c5b",
+              "@type": "sc:Range",
+              "label": "CON_BSP02471-02480-pres",
+              "canvases": [
+                "https://maior-images.memorix.nl/cia/iiif/e596742a-2b0e-a640-7d53-48fd509a3fad/canvas"
+              ]
+            },
+            {
+              "@id": "http://example.org/iiif/range/f72e5db3-0e1b-462c-a745-5016322089e6",
+              "@type": "sc:Range",
+              "label": "Masjid -i- Jami: Exterior and Interior",
+              "canvases": [
+                "https://maior-images.memorix.nl/cia/iiif/1997e388-803e-cc3a-c4bb-44915c736051/canvas"
+              ]
+            },
+            {
+              "@id": "http://example.org/iiif/range/49da0f00-a097-47e8-9f1c-c761164fb856",
+              "@type": "sc:Range",
+              "label": "main ivan, Back of dome. Founded by malek Shah c. 1080",
+              "canvases": [
+                "https://maior-images.memorix.nl/cia/iiif/5dfb378f-19ed-3c6c-1810-201b69a716b2/canvas"
+              ]
+            },
+            {
+              "@id": "http://example.org/iiif/range/bcee5a9f-2716-41d6-b688-0b8a22a30d89",
+              "@type": "sc:Range",
+              "label": "Masjid-i-Jami. Exterior: back of small ivan",
+              "canvases": [
+                "https://maior-images.memorix.nl/cia/iiif/168fea19-e921-a6d5-3d35-8fd0569cb2b1/canvas"
+              ]
+            },
+            {
+              "@id": "http://example.org/iiif/range/cda93bb1-6ec7-42b7-a90b-24c8ae604fe4",
+              "@type": "sc:Range",
+              "label": "Masjid - i - Jami",
+              "canvases": [
+                "https://maior-images.memorix.nl/cia/iiif/4f1d01bb-4ee0-be55-9e36-3e2f2331835c/canvas"
+              ]
             }
           ]
         }
