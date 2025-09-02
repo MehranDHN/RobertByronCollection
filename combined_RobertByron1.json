@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "http://example.org/iiif/manifest/e7559608-2725-4987-af5f-dd10b5b212d2",
+  "@id": "http://example.org/iiif/manifest/4a683df2-2899-4343-a731-e7b6a0bc232c",
   "label": "Robert Byron Album - Combined Manifest",
   "metadata": [
     {
@@ -19,7 +19,7 @@
   ],
   "sequences": [
     {
-      "@id": "http://example.org/iiif/sequence/445119d5-7dd5-4db3-8d0f-aa57d9222d1b",
+      "@id": "http://example.org/iiif/sequence/3b65e333-1a1d-446c-9d6f-c3a564d7baaf",
       "@type": "sc:Sequence",
       "label": "Default",
       "canvases": [
@@ -31,7 +31,7 @@
           "width": 7360,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/633f0424-9f2a-4e36-82a9-e163439e6fe1",
+              "@id": "http://example.org/iiif/annotation/69106f9d-57a7-4ab4-998d-b5ee77cf5a06",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -58,7 +58,7 @@
           "width": 6185,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/14e1da03-da25-48f2-8639-fda6b495a999",
+              "@id": "http://example.org/iiif/annotation/9909d313-7330-480d-9ce3-bb7a294a8044",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -85,7 +85,7 @@
           "width": 5267,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/a62dabba-87f7-4791-a1b8-7b14a0db7cb8",
+              "@id": "http://example.org/iiif/annotation/fda03011-a6f1-4a81-847e-a68827efd638",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -112,7 +112,7 @@
           "width": 5573,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/227494dc-989a-42f1-8f8d-53aed29a4c20",
+              "@id": "http://example.org/iiif/annotation/e80b257f-8224-4f13-8689-fc294ff5e4a7",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -139,7 +139,7 @@
           "width": 7126,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/a0a4b881-0909-466f-a1bc-c85d4df06e4c",
+              "@id": "http://example.org/iiif/annotation/6f8a9831-b181-49d3-abca-03ec1743dd97",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -166,7 +166,7 @@
           "width": 7103,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/94dfd0ee-9672-488a-b83a-9a5bdfcabb4e",
+              "@id": "http://example.org/iiif/annotation/e2a2a221-6133-4673-90f4-982409ea4254",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -193,7 +193,7 @@
           "width": 7103,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/359b822c-234a-419d-ac50-c82eb6a2ba41",
+              "@id": "http://example.org/iiif/annotation/43a00ca9-2f16-418e-86c9-a6d2806e5854",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -220,7 +220,7 @@
           "width": 5270,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/563f0fce-fc04-4939-8467-89395fb67165",
+              "@id": "http://example.org/iiif/annotation/802ca6a5-1e69-4232-bfd6-a8e172db2794",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -247,7 +247,7 @@
           "width": 5318,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/9c334538-da82-436f-8a41-fecca1c978c2",
+              "@id": "http://example.org/iiif/annotation/dcc558f8-96e8-43e3-8f60-535f93f6f1d5",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -274,7 +274,7 @@
           "width": 5318,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/2600f825-78eb-4e9b-bf65-fdf2d2102d78",
+              "@id": "http://example.org/iiif/annotation/37ce56f8-7ca3-449e-a0ac-37c427b11719",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -301,7 +301,7 @@
           "width": 5301,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/4cfc0432-d34c-4478-8693-4016c1741aec",
+              "@id": "http://example.org/iiif/annotation/a8431ecb-cf54-43c5-8145-df09d04d01e6",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -328,7 +328,7 @@
           "width": 5284,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/565ff417-4e59-4953-bef4-280904b7c236",
+              "@id": "http://example.org/iiif/annotation/0306d736-8655-4445-ae12-94cdfcbc5b0b",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -355,7 +355,7 @@
           "width": 5284,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/136679f4-77bd-43d0-b81c-7c6b9c9c915c",
+              "@id": "http://example.org/iiif/annotation/d13615e6-9852-4b21-b8d7-6d1ad075b8a3",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -382,7 +382,7 @@
           "width": 5335,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/3c14d7e6-faa7-486f-921f-87e832a27f7b",
+              "@id": "http://example.org/iiif/annotation/c4d71659-eb36-4036-b648-2a06668500b7",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -409,7 +409,7 @@
           "width": 5811,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/bf083bb8-7a92-4d7c-a765-49b9cb245a61",
+              "@id": "http://example.org/iiif/annotation/424e5715-17dd-45fd-8323-526bc1e5bb48",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -436,7 +436,7 @@
           "width": 5267,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/0509ce77-2c44-4920-8b72-eb3dc8b56af7",
+              "@id": "http://example.org/iiif/annotation/d8c32006-a50b-4786-9f51-bae81ba632cf",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -463,7 +463,7 @@
           "width": 5301,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/75dc3f79-9d5a-41e2-b3d1-2adb0d4cb084",
+              "@id": "http://example.org/iiif/annotation/026f7baf-1c65-4b71-bebc-86a355e1c518",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -490,7 +490,7 @@
           "width": 5369,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/f1ca501b-9a60-400b-9d1c-300b8bfd9af2",
+              "@id": "http://example.org/iiif/annotation/3a24acf9-7157-4b94-bf23-15c0fb60605c",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -517,7 +517,7 @@
           "width": 5284,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/fd6976bc-de5c-4aa8-9155-cffebef1a837",
+              "@id": "http://example.org/iiif/annotation/b885a71c-bbeb-40a3-a822-342e5b2f0e4c",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -544,7 +544,7 @@
           "width": 5658,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/66980f7a-7578-42f8-8584-afe012997a49",
+              "@id": "http://example.org/iiif/annotation/1d6fcf27-aab2-4b03-bcd4-13b6954219f0",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -571,7 +571,7 @@
           "width": 5301,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/2c01ee71-b01d-4138-ae2e-25e4ac72469b",
+              "@id": "http://example.org/iiif/annotation/449d7ddb-54e6-4203-8055-df01a96fe95f",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -598,7 +598,7 @@
           "width": 7103,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/4887714e-9e0c-44e7-8518-4cad693731c1",
+              "@id": "http://example.org/iiif/annotation/d34456a5-bf7b-4a11-a308-76af9ea4b5d6",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -625,7 +625,7 @@
           "width": 5267,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/f6e3f60d-b629-4bfa-ac3b-4cf5bc820100",
+              "@id": "http://example.org/iiif/annotation/759257cb-5460-4a94-b183-a25bef8ff825",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -652,7 +652,7 @@
           "width": 5267,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/d36f8566-3663-4c3c-9591-40921c08bf39",
+              "@id": "http://example.org/iiif/annotation/7d5a2b6b-b871-4f68-b8a5-119955cc8924",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -679,7 +679,7 @@
           "width": 5641,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/ef21dd66-21d9-4af5-94ad-dc35651ae845",
+              "@id": "http://example.org/iiif/annotation/315a3f69-18e3-47d7-8f8a-e6a5a6aa9698",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -706,7 +706,7 @@
           "width": 5350,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/f28c47f6-3780-4be0-9aab-46b6aab92d19",
+              "@id": "http://example.org/iiif/annotation/873130a9-058d-48d9-b464-22423d34d747",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -733,7 +733,7 @@
           "width": 5301,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/5cc6479a-90c0-4b42-ba7e-850f99cacdc9",
+              "@id": "http://example.org/iiif/annotation/7d714fe1-2276-4698-8a75-a555101951a7",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -760,7 +760,7 @@
           "width": 5352,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/30b38ac4-471a-434f-9c16-52f41021be25",
+              "@id": "http://example.org/iiif/annotation/4c12eccc-93a7-4bb1-8cde-0a3361cd6a08",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -787,7 +787,7 @@
           "width": 5301,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/fbf5d7eb-bbd8-4bf2-9197-e40e3015637c",
+              "@id": "http://example.org/iiif/annotation/860b4f79-83d9-4a46-ab99-a33195affd43",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -814,7 +814,7 @@
           "width": 5335,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/cbb44ce5-5cc2-4029-87b7-6632938d0879",
+              "@id": "http://example.org/iiif/annotation/453549e0-7b9b-431b-8d74-7a5d895575dd",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -841,7 +841,7 @@
           "width": 5352,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/1ef14386-1360-4ce6-a24f-6d32222a9c53",
+              "@id": "http://example.org/iiif/annotation/98cc05f2-7e00-449a-8823-5d9f39d84077",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -868,7 +868,7 @@
           "width": 5335,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/76ee0572-8a4d-4321-bee5-236a739b96f8",
+              "@id": "http://example.org/iiif/annotation/d9b7a662-3e48-4602-9aae-7cb6389dd468",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -895,7 +895,7 @@
           "width": 5301,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/7aa5ab56-7665-47a2-b744-d8793711382e",
+              "@id": "http://example.org/iiif/annotation/ce9e04c9-8d98-493a-8b6e-7a8e1aebcbe9",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -922,7 +922,7 @@
           "width": 5284,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/875d0086-d190-495e-90f1-cd7b42e1c362",
+              "@id": "http://example.org/iiif/annotation/41266c35-a9f7-4e97-ac85-5ac672c07786",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -949,7 +949,7 @@
           "width": 5352,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/d5745531-674e-47a5-b1ae-9de8804218c4",
+              "@id": "http://example.org/iiif/annotation/754d6550-df17-492f-b232-686a24482381",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -976,7 +976,7 @@
           "width": 5318,
           "images": [
             {
-              "@id": "http://example.org/iiif/annotation/851c0376-e3d0-4263-91f1-cbdb844b9c27",
+              "@id": "http://example.org/iiif/annotation/cbb100d4-3227-4e05-b55f-db4a9b3f1767",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -994,23 +994,104 @@
               "on": "https://maior-images.memorix.nl/cia/iiif/56175d38-b314-2c5b-a333-eff42d7bd305/canvas"
             }
           ]
+        },
+        {
+          "@id": "https://maior-images.memorix.nl/cia/iiif/e596742a-2b0e-a640-7d53-48fd509a3fad/canvas",
+          "@type": "sc:Canvas",
+          "label": "CON_BSP02471-02480-pres",
+          "height": 4912,
+          "width": 7360,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/6ccdd13d-da92-4ab6-83b6-3eee97a75ddf",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://maior-images.memorix.nl/cia/iiif/e596742a-2b0e-a640-7d53-48fd509a3fad/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4912,
+                "width": 7360,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://maior-images.memorix.nl/cia/iiif/e596742a-2b0e-a640-7d53-48fd509a3fad",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://maior-images.memorix.nl/cia/iiif/e596742a-2b0e-a640-7d53-48fd509a3fad/canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://maior-images.memorix.nl/cia/iiif/031b4e5e-34d3-23af-ecc5-0ffc05152aab/canvas",
+          "@type": "sc:Canvas",
+          "label": "CON_B02477_F002_000-pres",
+          "height": 7698,
+          "width": 5981,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/3cfd22f2-997f-4b6a-a1dd-6d021debd207",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://maior-images.memorix.nl/cia/iiif/031b4e5e-34d3-23af-ecc5-0ffc05152aab/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7698,
+                "width": 5981,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://maior-images.memorix.nl/cia/iiif/031b4e5e-34d3-23af-ecc5-0ffc05152aab",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://maior-images.memorix.nl/cia/iiif/031b4e5e-34d3-23af-ecc5-0ffc05152aab/canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://maior-images.memorix.nl/cia/iiif/e5a4b074-403f-cf28-cb38-93876b67ac87/canvas",
+          "@type": "sc:Canvas",
+          "label": "CON_B02477_F002_001-pres",
+          "height": 7242,
+          "width": 9075,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/e2be06c6-eca2-4331-8ce6-d31934ed471d",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://maior-images.memorix.nl/cia/iiif/e5a4b074-403f-cf28-cb38-93876b67ac87/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7242,
+                "width": 9075,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://maior-images.memorix.nl/cia/iiif/e5a4b074-403f-cf28-cb38-93876b67ac87",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://maior-images.memorix.nl/cia/iiif/e5a4b074-403f-cf28-cb38-93876b67ac87/canvas"
+            }
+          ]
         }
       ]
     }
   ],
   "structures": [
     {
-      "@id": "http://example.org/iiif/range/f4fbcc03-0f5b-453d-9002-dce3214f03bc",
+      "@id": "http://example.org/iiif/range/c8bf3281-e550-48b1-a825-a386ab4956ae",
       "@type": "sc:Range",
-      "label": "Robert Byron Album",
+      "label": "Robert Byron-Isfahan-Religious Buildings",
       "ranges": [
         {
-          "@id": "http://example.org/iiif/range/88c8e695-cf9b-4c1f-9ec5-af71e7d756c2",
+          "@id": "http://example.org/iiif/range/6be41536-3de7-4913-88f0-d2fbfc236da3",
           "@type": "sc:Range",
-          "label": "Architectural Building",
+          "label": "Architectural Building CON_B02477_F001",
           "ranges": [
             {
-              "@id": "http://example.org/iiif/range/5366ea1e-96a9-46db-aa16-bdf4ac38bea7",
+              "@id": "http://example.org/iiif/range/19f35b2d-f85a-44f4-a425-1424b51cd312",
               "@type": "sc:Range",
               "label": "CON_BSP02471-02480-pres",
               "canvases": [
@@ -1018,7 +1099,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/a2e93afe-ce35-4cf4-bfa0-661a12c19517",
+              "@id": "http://example.org/iiif/range/28cb9a7c-59b3-4971-a535-134bb103bd56",
               "@type": "sc:Range",
               "label": "Masjid -i- Jami: Exterior and Interior",
               "canvases": [
@@ -1026,7 +1107,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/14ce615f-5d80-483c-914a-f711f0da8397",
+              "@id": "http://example.org/iiif/range/e2359ec9-5459-4c99-828f-50ff381b4840",
               "@type": "sc:Range",
               "label": "main ivan, Back of dome. Founded by malek Shah c. 1080",
               "canvases": [
@@ -1034,7 +1115,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/ba2b0a53-a79a-46b8-80c2-b82813b8f448",
+              "@id": "http://example.org/iiif/range/bf601d81-977e-4112-bcee-db4542b36d94",
               "@type": "sc:Range",
               "label": "Masjid-i-Jami. Exterior: back of small ivan",
               "canvases": [
@@ -1042,7 +1123,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/a6680b85-e153-4d93-bed2-0a7633dd5579",
+              "@id": "http://example.org/iiif/range/05a292a7-4ad7-4def-aad0-f5fb24f39f27",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 04",
               "canvases": [
@@ -1050,7 +1131,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/0e1b041a-25d0-4c22-92e6-7e5bcf8824c7",
+              "@id": "http://example.org/iiif/range/5aa43a96-5a61-4315-b2d5-2faa4b62f1e4",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 05",
               "canvases": [
@@ -1058,7 +1139,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/07dec987-5e65-43d4-92ab-9feec460ebb1",
+              "@id": "http://example.org/iiif/range/217e4372-b53f-4333-884b-b4f8051ba33b",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 06",
               "canvases": [
@@ -1066,7 +1147,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/4d179ad7-4795-4b00-b671-592658f2a989",
+              "@id": "http://example.org/iiif/range/921a7ae4-964b-47fa-a9ce-688bd3f8df90",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 07",
               "canvases": [
@@ -1074,7 +1155,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/e6dcc4a4-4643-46d8-a1b3-6bc57fe56427",
+              "@id": "http://example.org/iiif/range/1290c512-bd1b-4e05-af18-6f8784a753db",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 08",
               "canvases": [
@@ -1082,7 +1163,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/7f16be77-dfe4-476c-a832-1c86d8c3aec0",
+              "@id": "http://example.org/iiif/range/ce527ebd-9867-4875-8672-57d806e373ce",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 09",
               "canvases": [
@@ -1090,7 +1171,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/62d169f1-a649-4a95-8728-46bf006b4006",
+              "@id": "http://example.org/iiif/range/d29b6c4a-01d6-4523-b404-6a1304af589d",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 10",
               "canvases": [
@@ -1098,7 +1179,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/ab30ea15-5dce-4acf-b041-aabedad43d48",
+              "@id": "http://example.org/iiif/range/1a443d28-dd53-45de-83fa-a50f64746a27",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 11",
               "canvases": [
@@ -1106,7 +1187,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/c302d85e-b189-45d4-999f-a423c8938cda",
+              "@id": "http://example.org/iiif/range/a7b0cda6-9b7d-4241-995f-4ca131e81bd6",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 12",
               "canvases": [
@@ -1114,7 +1195,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/9d0917e9-0552-4574-8b8b-13063023bb68",
+              "@id": "http://example.org/iiif/range/6f99541c-a874-413f-85e5-544040b74dc3",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 13",
               "canvases": [
@@ -1122,7 +1203,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/c25be20d-ceb6-49fa-a7c1-0b67d6c081da",
+              "@id": "http://example.org/iiif/range/f45ab32e-cc84-4142-a215-a242005aeb47",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 14",
               "canvases": [
@@ -1130,7 +1211,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/2be2c7ff-b318-4d19-802a-df41fa1720fb",
+              "@id": "http://example.org/iiif/range/c01cda2d-069f-4873-9db2-a58a79199c38",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 15",
               "canvases": [
@@ -1138,7 +1219,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/1c0f5065-6a14-4674-b2ec-79941374fc0a",
+              "@id": "http://example.org/iiif/range/3b631427-f26e-4091-9e94-bbd66b3147f7",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 16",
               "canvases": [
@@ -1146,7 +1227,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/fb551b4a-5484-40b6-a325-c6423710b88a",
+              "@id": "http://example.org/iiif/range/b69e6bb9-1018-46a9-9b95-2a56fd909d96",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 17",
               "canvases": [
@@ -1154,7 +1235,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/413efc24-36a3-438e-bec5-152dba4fdb5a",
+              "@id": "http://example.org/iiif/range/c47d3180-2c34-406a-a124-ffaf6c6edda7",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 18",
               "canvases": [
@@ -1162,7 +1243,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/9225ce6a-05d7-4d61-8643-4bbc4375bc01",
+              "@id": "http://example.org/iiif/range/05254a8e-44dd-4bf4-9f2d-0090e3a22b9f",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 19",
               "canvases": [
@@ -1170,7 +1251,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/7868440b-42e7-418c-a32c-cb01d03601e5",
+              "@id": "http://example.org/iiif/range/1506b60a-6ff4-4e82-9118-65ec9d00a999",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 20",
               "canvases": [
@@ -1178,7 +1259,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/9ced3a09-726d-45ca-b217-1697bf77fe15",
+              "@id": "http://example.org/iiif/range/a8843e3a-a2c9-44e4-ba3e-01050ef61462",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 21",
               "canvases": [
@@ -1186,7 +1267,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/53cf0ed4-5457-4112-99a1-1aa0b17b5df8",
+              "@id": "http://example.org/iiif/range/3e2d720e-b6af-49ae-b6a6-7870ed8d4f55",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 22",
               "canvases": [
@@ -1194,7 +1275,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/2c51170c-58c2-482b-8f6c-e1a175770b91",
+              "@id": "http://example.org/iiif/range/9ea23202-44e0-42bc-89b0-a9a91b785a2c",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 23",
               "canvases": [
@@ -1202,7 +1283,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/3b262a30-7367-4408-939b-95568194b4f2",
+              "@id": "http://example.org/iiif/range/aa76fb67-bf99-40ed-bef3-087d9f04c023",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 24",
               "canvases": [
@@ -1210,7 +1291,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/65e6a39f-6e89-401c-97c8-7b43acf6d60e",
+              "@id": "http://example.org/iiif/range/7f4c26cc-e110-4434-8419-9afa03f300e0",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 25",
               "canvases": [
@@ -1218,7 +1299,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/1daa192b-ebc5-4541-8672-a7afe9dacaa0",
+              "@id": "http://example.org/iiif/range/a87cdc40-a449-457d-b173-d5e4c195c9aa",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 26",
               "canvases": [
@@ -1226,7 +1307,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/10eadf09-c18e-4855-9874-3a6fbdbca635",
+              "@id": "http://example.org/iiif/range/77a0884f-a7e2-4334-9d6f-d9c97aec1339",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 27",
               "canvases": [
@@ -1234,7 +1315,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/2ef710dd-9e04-414a-828f-bcc73e9c5a56",
+              "@id": "http://example.org/iiif/range/30708bc6-5787-4695-89a4-4afc287f7051",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 28",
               "canvases": [
@@ -1242,7 +1323,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/b53e1b8d-4c8c-4462-9c2a-bfa8a3617b91",
+              "@id": "http://example.org/iiif/range/6677b9cf-c1b5-4052-962c-636945c9041c",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 29",
               "canvases": [
@@ -1250,7 +1331,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/cfbf8b9c-c835-484c-bdf7-491b2dc91e14",
+              "@id": "http://example.org/iiif/range/9c86e098-e5f0-4ad5-8383-42d4653645b5",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 30",
               "canvases": [
@@ -1258,7 +1339,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/beb4c1d3-bef6-45e3-8f51-3fe8d0be2ded",
+              "@id": "http://example.org/iiif/range/5c699eee-3425-4d22-b757-1a7aaac271a8",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 31",
               "canvases": [
@@ -1266,7 +1347,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/e97bc3dc-ff0e-431e-8959-c343a88cdb78",
+              "@id": "http://example.org/iiif/range/f84fadf0-82ef-45a3-925b-72afebc85dfe",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 32",
               "canvases": [
@@ -1274,7 +1355,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/a30188e5-b483-4184-befc-0511305aa2d3",
+              "@id": "http://example.org/iiif/range/d6fd0a59-d64a-4ad0-9fee-73a80c3fe16a",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 33",
               "canvases": [
@@ -1282,7 +1363,7 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/bab05d1c-4514-4a43-b2eb-8908de9020b9",
+              "@id": "http://example.org/iiif/range/f2eaf09b-dacd-42b6-89bf-6e51e26282a6",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 34",
               "canvases": [
@@ -1290,11 +1371,42 @@
               ]
             },
             {
-              "@id": "http://example.org/iiif/range/c6a7a481-3f14-46d9-b84c-32bdce4d362b",
+              "@id": "http://example.org/iiif/range/8404a231-0fea-45e5-ace3-6f2d6e26da69",
               "@type": "sc:Range",
               "label": "Masjid - i - Jami 35",
               "canvases": [
                 "https://maior-images.memorix.nl/cia/iiif/56175d38-b314-2c5b-a333-eff42d7bd305/canvas"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "http://example.org/iiif/range/642ae1b7-d984-442f-811b-fa35c45f924b",
+          "@type": "sc:Range",
+          "label": "Architectural Building CON_B02477_F002",
+          "ranges": [
+            {
+              "@id": "http://example.org/iiif/range/0408566c-9089-4cab-8d1b-5aac5ae6cf43",
+              "@type": "sc:Range",
+              "label": "CON_BSP02471-02480-pres",
+              "canvases": [
+                "https://maior-images.memorix.nl/cia/iiif/e596742a-2b0e-a640-7d53-48fd509a3fad/canvas"
+              ]
+            },
+            {
+              "@id": "http://example.org/iiif/range/ddfcb846-00fa-42a5-9b0a-705643e38446",
+              "@type": "sc:Range",
+              "label": "Moque: Masjid-i-Shah: Exterior and Interior",
+              "canvases": [
+                "https://maior-images.memorix.nl/cia/iiif/031b4e5e-34d3-23af-ecc5-0ffc05152aab/canvas"
+              ]
+            },
+            {
+              "@id": "http://example.org/iiif/range/6a4da328-a7c0-4159-9564-2defedcd3527",
+              "@type": "sc:Range",
+              "label": "Masjid-i-Shah. Architectural floor plan and longitudinal section with imperial scale in feet.",
+              "canvases": [
+                "https://maior-images.memorix.nl/cia/iiif/e5a4b074-403f-cf28-cb38-93876b67ac87/canvas"
               ]
             }
           ]
